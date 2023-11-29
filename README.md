@@ -1,6 +1,6 @@
 ## 🏠 Welcome to my ~
 
-I am an undergrad studying Computer Science at the [Department of Informatics and Telecommunications](https://www.di.uoa.gr/en) of the [National and Kapodistrian University of Athens](https://en.uoa.gr/).
+Undergraduate student in the [Department of Informatics and Telecommunications](https://www.di.uoa.gr/en) at [NKUA](https://en.uoa.gr/).
 
 ## 📚 Current interests
 
