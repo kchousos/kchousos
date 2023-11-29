@@ -45,9 +45,3 @@ Learning:
   <img src="https://github.com/kchousos/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
   <img src="https://github.com/kchousos/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
 </div>
-
-## 🔗 Links
-
-[Personal blog](https://kchousos.github.io/) |
-[𝕏](https://twitter.com/KChousos) |
-[LinkedIn](https://www.linkedin.com/in/kchousos/)
