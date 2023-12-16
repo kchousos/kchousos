@@ -8,6 +8,7 @@ Undergraduate student in the [Department of Informatics and Telecommunications](
 - Programming language theory
 - C programming
 - Linux systems administration
+- Declarative programming
 - LaTeX typesetting
 
 ## 🛠 Skills
