@@ -2,6 +2,6 @@
 <p align="center">
 <br>
   <samp>
-    「 Computer Science @ <b>University of Athens</b> 」<br>
+    「 AI Resarcher @ <b>University of Athens</b> 」<br>
   </samp>
 </p>
